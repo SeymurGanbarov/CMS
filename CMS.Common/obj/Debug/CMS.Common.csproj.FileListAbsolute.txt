@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CMS\CMS.Common\bin\Debug\CMS.Common.dll
+C:\Users\Administrator\source\repos\CMS\CMS.Common\bin\Debug\CMS.Common.pdb
+C:\Users\Administrator\source\repos\CMS\CMS.Common\obj\Debug\CMS.Common.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CMS\CMS.Common\obj\Debug\CMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CMS\CMS.Common\obj\Debug\CMS.Common.dll
+C:\Users\Administrator\source\repos\CMS\CMS.Common\obj\Debug\CMS.Common.pdb

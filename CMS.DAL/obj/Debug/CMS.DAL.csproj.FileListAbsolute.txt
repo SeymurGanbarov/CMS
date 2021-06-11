@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\bin\Debug\CMS.DAL.dll
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\bin\Debug\CMS.DAL.pdb
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\bin\Debug\CMS.Common.dll
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\bin\Debug\CMS.Common.pdb
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\obj\Debug\CMS.DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\obj\Debug\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\obj\Debug\CMS.DAL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\obj\Debug\CMS.DAL.dll
+C:\Users\Administrator\source\repos\CMS\CMS.DAL\obj\Debug\CMS.DAL.pdb

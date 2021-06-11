@@ -1,0 +1,6 @@
+          -----------  Info (2021-06-10 15:30:21.2061) -----------  
+        Additional Info: HOME : INDEX { responseStatusCode = 200 } { requestExecutedTime = 00:00:01.5256422 } { requestUrl = https://localhost:44340/ } { requestQuery = {} } { requestForm = {} } 
+                 
+          -----------  Info (2021-06-10 15:57:10.9551) -----------  
+        Additional Info: HOME : INDEX { responseStatusCode = 200 } { requestExecutedTime = 00:00:01.0369196 } { requestUrl = https://localhost:44340/ } { requestQuery = {} } { requestForm = {} } 
+                 
